@@ -1,0 +1,14 @@
+{
+  "name": "testing-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mechanicalhuman/bunyan-pretty": "^3.1.0",
+    "bunyan": "^1.8.15"
+  }
+}
