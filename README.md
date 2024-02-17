@@ -19,7 +19,7 @@ npm install testing-library-js`
 To use Testing.js in your JavaScript projects, simply import it into your test files:
 
 ```javascript
-const Testing = require("testing-js");`
+const Testing = require("testing-library-js");`
 ```
 
 ## Example
