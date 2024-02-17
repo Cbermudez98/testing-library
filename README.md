@@ -11,7 +11,7 @@ Testing.js is a lightweight JavaScript testing library that provides a simple an
 You can install Testing.js via npm:
 
 ```bash
-npm install testing-js`
+npm install testing-library-js`
 ```
 
 ## Usage

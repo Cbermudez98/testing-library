@@ -1,11 +1,14 @@
 {
-  "name": "testing-library",
+  "name": "testing-library-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing library js",
   "main": "src/index.js",
+  "author": {
+    "name": "Cesar Bermudez",
+    "email": "cesar.bermudez.sierra@gmail.com"
+  },
   "scripts": {},
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@mechanicalhuman/bunyan-pretty": "^3.1.0",
